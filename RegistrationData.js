@@ -1,0 +1,20 @@
+module.exports={
+			Datadriven:{
+				FirstData:{
+					firstName:"chandu",
+					email:"testmail12@gmail.com",
+					password:"Sudhamani_doki@06"
+				}/*,
+				SecondData:{
+					firstName:"chandu",
+					email:"testmail@gmail.com",
+					password:"Chandra6!"
+				},
+				ThirdData:{
+					firstName:"chandu",
+					email:"testmail@gmail.com",
+					password:"Chandra6!"
+				}*/
+			}
+
+	}
